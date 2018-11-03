@@ -2,7 +2,6 @@
 <html>
 <body>
   <head>
-    <title>Readme.md</title>
     <link rel="stylesheet" type="text/css" href="css/styles.css">
   </head>
    <h1>My first website</h1>
